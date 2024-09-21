@@ -1,3 +1,3 @@
 module.exports = {
-    OpenAIAPIKey: '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'
+    OpenAIAPIKey: 'YOU_API_KEY'
 };
